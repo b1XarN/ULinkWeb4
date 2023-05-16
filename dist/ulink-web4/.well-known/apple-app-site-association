@@ -1,0 +1,16 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+          {
+              "appIDs": ["57V5JGX394.com.bcp.App2Web-1ra"],
+              "components": [
+                {
+                   "#": "/usuarios",
+                   "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
+                }
+              ]
+          }
+      ]
+  }
+}
