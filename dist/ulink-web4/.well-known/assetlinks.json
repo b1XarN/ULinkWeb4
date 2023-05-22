@@ -2,6 +2,15 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
+    "package_name": "com.bcp.aa.demoapp2web",
+    "sha256_cert_fingerprints":
+    ["12:7C:21:0D:1F:5D:FB:01:CC:E7:4F:86:84:0F:7A:49:A8:27:95:78:30:18:22:85:18:B4:15:97:2C:F4:59:44"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
     "package_name": "com.example.demodeeplinks",
     "sha256_cert_fingerprints":
     ["12:7C:21:0D:1F:5D:FB:01:CC:E7:4F:86:84:0F:7A:49:A8:27:95:78:30:18:22:85:18:B4:15:97:2C:F4:59:44"]
