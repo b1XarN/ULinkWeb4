@@ -7,7 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class UsuariosComponent implements OnInit {
   ngOnInit(): void {
-    window.location.href = "https://luishuapayas.com/dashboard/index.html"
+    // window.location.href = "https://luishuapayas.com/dashboard/index.html"
+    window.location.href = "https://contabilidad.store"
     // document.addEventListener("DOMContentLoaded", () => {
     //   // window.location.href = "https://contabilidad.store/#/usuarios"
     //   // location.assign("https://contabilidad.store")
