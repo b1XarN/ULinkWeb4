@@ -9,7 +9,8 @@ export class HomeComponent implements OnInit {
 
   ngOnInit(): void {
     document.addEventListener("DOMContentLoaded", () => {
-      window.location.href = "https://contabilidad.store/#/usuarios"
+      // window.location.href = "https://contabilidad.store/#/usuarios"
+      location.assign("https://contabilidad.store/#/usuarios")
     });
   }
 
