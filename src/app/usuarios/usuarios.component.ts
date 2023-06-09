@@ -9,7 +9,8 @@ export class UsuariosComponent implements OnInit {
   ngOnInit(): void {
     document.addEventListener("DOMContentLoaded", () => {
       // window.location.href = "https://contabilidad.store/#/usuarios"
-      location.assign("https://contabilidad.store")
+      // location.assign("https://contabilidad.store")
+      setTimeout(function(){document.location.href = "https://contabilidad.store";},250);
     });
   }
 }
